@@ -127,9 +127,9 @@ def home():
         <div class="section">
             <h2>👨‍💻 About Me</h2>
             <p style="font-size:16px; line-height:1.8; color:#a8dadc;">
-                I am a passionate DevOps learner from Rawalpindi, Pakistan. 
+                I am a very passionate DevOps learner from Rawalpindi, Pakistan. 
                 I am building my skills in Linux, Docker, Cloud, and automation 
-                to become a professional DevOps Engineer.
+                to become a strong and  professional DevOps Engineer.
             </p>
         </div>
 
